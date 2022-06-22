@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "tidytable"]
+	path = tidytable
+	url = https://github.com/markfairbanks/tidytable
+	shallow = true
+	registered = true
